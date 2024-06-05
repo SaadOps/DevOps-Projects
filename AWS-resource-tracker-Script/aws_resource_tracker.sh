@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 set -x 
 : '
 This script will report the AWS resource usage
