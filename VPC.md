@@ -1,6 +1,4 @@
 
-
-![Uploading vpc-example-private-subnets.png…]()
 ![image](https://github.com/user-attachments/assets/7e43e854-e200-40a2-8683-adf6aecfa1c0)
 
 
